@@ -1,4 +1,4 @@
-"act","prompt","tag"
+"act","prompt","option"
 "Google Ads Brand Protection Headline","Voglio che tu mi costruisca 10 Headline per una campagna di Brand Protection per il sito che ti dirò. Queste Headline devono contenere max 30 caratteri spazi inclusi e tra queste Headline ci deve essere almeno 1 Reason Why, 1 Scopri di più.Togli le virgolette da qualsiasi titolo","General"
 "Google Ads Brand Protection Description","""Voglio che costruisca 10 Headline per una campagna di Brand Protection per il questo sito {url}. Queste Description devono contenere max 90 caratteri spazi inclusi e tra queste Headline ci deve essere almeno 1 Reason Why, 1 Scopri di più.Togli le virgolette da qualsiasi titolo""","General"
 "Meta Ads Lancio Corso","""Scrivi 5 copy di Ads da usare su Facebook per lanciare un corso dove ci saranno posti limitati. La materia del corso è quella che vedi qui sotto""","General"
